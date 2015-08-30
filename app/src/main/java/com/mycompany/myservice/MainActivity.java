@@ -27,8 +27,8 @@ public class MainActivity extends ActionBarActivity {
 
     public static final String HOURS = "hours";
     public static final String MINUTES = "minutes";
- //   private static Button myStartService;
-  //  private Button myStopService;
+    private static Button myStartService;
+    private Button myStopService;
     private MediaPlayer player;
     private static int time;
     public static String path;
